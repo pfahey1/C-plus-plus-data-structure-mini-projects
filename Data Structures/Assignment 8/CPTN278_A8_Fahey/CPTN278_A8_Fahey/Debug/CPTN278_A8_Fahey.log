@@ -1,0 +1,47 @@
+﻿Build started 4/21/2012 5:08:55 PM.
+     1>Project "E:\Data Structures\Assignment 8\CPTN278_A8_Fahey\CPTN278_A8_Fahey\CPTN278_A8_Fahey.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\CPTN278_A8_Fahey.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt CPTN278_A8_Application_Fahey.cpp CPTN278_A8_List_Fahey.cpp CPTN278_A8_Node_Fahey.cpp CPTN278_A8_Tree_Fahey.cpp CPTN278_A8_Tree_Node_Fahey.cpp CPTN278_A8_UList_Fahey.cpp
+         CPTN278_A8_UList_Fahey.cpp
+         CPTN278_A8_Tree_Node_Fahey.cpp
+         CPTN278_A8_Tree_Fahey.cpp
+         CPTN278_A8_Node_Fahey.cpp
+         CPTN278_A8_List_Fahey.cpp
+         CPTN278_A8_Application_Fahey.cpp
+     1>e:\data structures\assignment 8\cptn278_a8_fahey\cptn278_a8_fahey\cptn278_a8_application_fahey.cpp(60): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         Generating Code...
+     1>e:\data structures\assignment 8\cptn278_a8_fahey\cptn278_a8_fahey\cptn278_a8_tree_fahey.cpp(79): warning C4715: 'Tree::Insert_Helper' : not all control paths return a value
+     1>e:\data structures\assignment 8\cptn278_a8_fahey\cptn278_a8_fahey\cptn278_a8_tree_fahey.cpp(196): warning C4715: 'Tree::Search_Helper' : not all control paths return a value
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\CPTN278_A8_Fahey.exe.embed.manifest.res" Debug\CPTN278_A8_Fahey_manifest.rc 
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Data Structures\Assignment 8\CPTN278_A8_Fahey\Debug\CPTN278_A8_Fahey.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CPTN278_A8_Fahey.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Data Structures\Assignment 8\CPTN278_A8_Fahey\Debug\CPTN278_A8_Fahey.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Data Structures\Assignment 8\CPTN278_A8_Fahey\Debug\CPTN278_A8_Fahey.lib" /MACHINE:X86 Debug\CPTN278_A8_Fahey.exe.embed.manifest.res
+         Debug\CPTN278_A8_Application_Fahey.obj
+         Debug\CPTN278_A8_List_Fahey.obj
+         Debug\CPTN278_A8_Node_Fahey.obj
+         Debug\CPTN278_A8_Tree_Fahey.obj
+         Debug\CPTN278_A8_Tree_Node_Fahey.obj
+         Debug\CPTN278_A8_UList_Fahey.obj
+       Manifest:
+         Deleting file "Debug\CPTN278_A8_Fahey.exe.embed.manifest".
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\CPTN278_A8_Fahey.exe.embed.manifest" /manifest Debug\CPTN278_A8_Fahey.exe.intermediate.manifest
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\CPTN278_A8_Fahey.exe.embed.manifest.res" Debug\CPTN278_A8_Fahey_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Data Structures\Assignment 8\CPTN278_A8_Fahey\Debug\CPTN278_A8_Fahey.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CPTN278_A8_Fahey.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Data Structures\Assignment 8\CPTN278_A8_Fahey\Debug\CPTN278_A8_Fahey.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Data Structures\Assignment 8\CPTN278_A8_Fahey\Debug\CPTN278_A8_Fahey.lib" /MACHINE:X86 Debug\CPTN278_A8_Fahey.exe.embed.manifest.res
+         Debug\CPTN278_A8_Application_Fahey.obj
+         Debug\CPTN278_A8_List_Fahey.obj
+         Debug\CPTN278_A8_Node_Fahey.obj
+         Debug\CPTN278_A8_Tree_Fahey.obj
+         Debug\CPTN278_A8_Tree_Node_Fahey.obj
+         Debug\CPTN278_A8_UList_Fahey.obj
+         CPTN278_A8_Fahey.vcxproj -> E:\Data Structures\Assignment 8\CPTN278_A8_Fahey\Debug\CPTN278_A8_Fahey.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\CPTN278_A8_Fahey.unsuccessfulbuild".
+         Touching "Debug\CPTN278_A8_Fahey.lastbuildstate".
+     1>Done Building Project "E:\Data Structures\Assignment 8\CPTN278_A8_Fahey\CPTN278_A8_Fahey\CPTN278_A8_Fahey.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:01:16.04

@@ -1,0 +1,26 @@
+﻿Build started 4/14/2012 1:17:52 PM.
+     1>Project "G:\Data Structures\Assignment 7\CPTN278_A7_fahey\CPTN278_A7_fahey\CPTN278_A7_fahey.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\CPTN278_A7_fahey.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt CPTN278_A7_Application_fahey.cpp
+         CPTN278_A7_Application_fahey.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\CPTN278_A7_fahey.exe.embed.manifest.res" Debug\CPTN278_A7_fahey_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Data Structures\Assignment 7\CPTN278_A7_fahey\Debug\CPTN278_A7_fahey.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CPTN278_A7_fahey.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\Data Structures\Assignment 7\CPTN278_A7_fahey\Debug\CPTN278_A7_fahey.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Data Structures\Assignment 7\CPTN278_A7_fahey\Debug\CPTN278_A7_fahey.lib" /MACHINE:X86 Debug\CPTN278_A7_fahey.exe.embed.manifest.res
+         Debug\CPTN278_A7_Application_fahey.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\CPTN278_A7_fahey.exe.embed.manifest" /manifest Debug\CPTN278_A7_fahey.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         CPTN278_A7_fahey.vcxproj -> G:\Data Structures\Assignment 7\CPTN278_A7_fahey\Debug\CPTN278_A7_fahey.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\CPTN278_A7_fahey.unsuccessfulbuild".
+         Touching "Debug\CPTN278_A7_fahey.lastbuildstate".
+     1>Done Building Project "G:\Data Structures\Assignment 7\CPTN278_A7_fahey\CPTN278_A7_fahey\CPTN278_A7_fahey.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:46.28

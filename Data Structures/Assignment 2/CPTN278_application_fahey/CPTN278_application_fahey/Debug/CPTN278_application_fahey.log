@@ -1,0 +1,32 @@
+﻿Build started 2/29/2012 1:37:29 PM.
+     1>Project "E:\Data Structures\Assignment 2\CPTN278_application_fahey\CPTN278_application_fahey\CPTN278_application_fahey.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\CPTN278_application_fahey.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt CPTN278_A2_Application_fahey.cpp CPTN278_A2_Stack_fahey.cpp
+         CPTN278_A2_Stack_fahey.cpp
+         CPTN278_A2_Application_fahey.cpp
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\CPTN278_application_fahey.exe.embed.manifest.res" Debug\CPTN278_application_fahey_manifest.rc 
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Data Structures\Assignment 2\CPTN278_application_fahey\Debug\CPTN278_application_fahey.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CPTN278_application_fahey.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Data Structures\Assignment 2\CPTN278_application_fahey\Debug\CPTN278_application_fahey.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Data Structures\Assignment 2\CPTN278_application_fahey\Debug\CPTN278_application_fahey.lib" /MACHINE:X86 Debug\CPTN278_application_fahey.exe.embed.manifest.res
+         Debug\CPTN278_A2_Application_fahey.obj
+         Debug\CPTN278_A2_Stack_fahey.obj
+       Manifest:
+         Deleting file "Debug\CPTN278_application_fahey.exe.embed.manifest".
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\CPTN278_application_fahey.exe.embed.manifest" /manifest Debug\CPTN278_application_fahey.exe.intermediate.manifest
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\CPTN278_application_fahey.exe.embed.manifest.res" Debug\CPTN278_application_fahey_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Data Structures\Assignment 2\CPTN278_application_fahey\Debug\CPTN278_application_fahey.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CPTN278_application_fahey.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Data Structures\Assignment 2\CPTN278_application_fahey\Debug\CPTN278_application_fahey.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Data Structures\Assignment 2\CPTN278_application_fahey\Debug\CPTN278_application_fahey.lib" /MACHINE:X86 Debug\CPTN278_application_fahey.exe.embed.manifest.res
+         Debug\CPTN278_A2_Application_fahey.obj
+         Debug\CPTN278_A2_Stack_fahey.obj
+         CPTN278_application_fahey.vcxproj -> E:\Data Structures\Assignment 2\CPTN278_application_fahey\Debug\CPTN278_application_fahey.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\CPTN278_application_fahey.unsuccessfulbuild".
+         Touching "Debug\CPTN278_application_fahey.lastbuildstate".
+     1>Done Building Project "E:\Data Structures\Assignment 2\CPTN278_application_fahey\CPTN278_application_fahey\CPTN278_application_fahey.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:43.36

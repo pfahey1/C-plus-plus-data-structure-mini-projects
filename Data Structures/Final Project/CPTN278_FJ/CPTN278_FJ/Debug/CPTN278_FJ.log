@@ -1,0 +1,51 @@
+﻿Build started 4/23/2012 9:34:17 AM.
+     1>Project "E:\Data Structures\Final Project\CPTN278_FJ\CPTN278_FJ\CPTN278_FJ.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\CPTN278_FJ.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt CPTN278_FJ_application.cpp CPTN278_FJ_class_economy.cpp CPTN278_FJ_class_player.cpp CPTN278_FJ_class_queue.cpp CPTN278_FJ_miscellaneous.cpp
+         CPTN278_FJ_miscellaneous.cpp
+         CPTN278_FJ_class_queue.cpp
+         CPTN278_FJ_class_player.cpp
+         CPTN278_FJ_class_economy.cpp
+     1>e:\data structures\final project\cptn278_fj\cptn278_fj\cptn278_fj_class_economy.cpp(43): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\data structures\final project\cptn278_fj\cptn278_fj\cptn278_fj_class_economy.cpp(44): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\data structures\final project\cptn278_fj\cptn278_fj\cptn278_fj_class_economy.cpp(46): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\data structures\final project\cptn278_fj\cptn278_fj\cptn278_fj_class_economy.cpp(47): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\data structures\final project\cptn278_fj\cptn278_fj\cptn278_fj_class_economy.cpp(49): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\data structures\final project\cptn278_fj\cptn278_fj\cptn278_fj_class_economy.cpp(50): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\data structures\final project\cptn278_fj\cptn278_fj\cptn278_fj_class_economy.cpp(52): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\data structures\final project\cptn278_fj\cptn278_fj\cptn278_fj_class_economy.cpp(53): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>e:\data structures\final project\cptn278_fj\cptn278_fj\cptn278_fj_class_economy.cpp(55): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\data structures\final project\cptn278_fj\cptn278_fj\cptn278_fj_class_economy.cpp(56): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+         CPTN278_FJ_application.cpp
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\CPTN278_FJ.exe.embed.manifest.res" Debug\CPTN278_FJ_manifest.rc 
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Data Structures\Final Project\CPTN278_FJ\Debug\CPTN278_FJ.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CPTN278_FJ.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Data Structures\Final Project\CPTN278_FJ\Debug\CPTN278_FJ.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Data Structures\Final Project\CPTN278_FJ\Debug\CPTN278_FJ.lib" /MACHINE:X86 Debug\CPTN278_FJ.exe.embed.manifest.res
+         Debug\CPTN278_FJ_application.obj
+         Debug\CPTN278_FJ_class_economy.obj
+         Debug\CPTN278_FJ_class_player.obj
+         Debug\CPTN278_FJ_class_queue.obj
+         Debug\CPTN278_FJ_miscellaneous.obj
+       Manifest:
+         Deleting file "Debug\CPTN278_FJ.exe.embed.manifest".
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\CPTN278_FJ.exe.embed.manifest" /manifest Debug\CPTN278_FJ.exe.intermediate.manifest
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\CPTN278_FJ.exe.embed.manifest.res" Debug\CPTN278_FJ_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Data Structures\Final Project\CPTN278_FJ\Debug\CPTN278_FJ.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CPTN278_FJ.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Data Structures\Final Project\CPTN278_FJ\Debug\CPTN278_FJ.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Data Structures\Final Project\CPTN278_FJ\Debug\CPTN278_FJ.lib" /MACHINE:X86 Debug\CPTN278_FJ.exe.embed.manifest.res
+         Debug\CPTN278_FJ_application.obj
+         Debug\CPTN278_FJ_class_economy.obj
+         Debug\CPTN278_FJ_class_player.obj
+         Debug\CPTN278_FJ_class_queue.obj
+         Debug\CPTN278_FJ_miscellaneous.obj
+         CPTN278_FJ.vcxproj -> E:\Data Structures\Final Project\CPTN278_FJ\Debug\CPTN278_FJ.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\CPTN278_FJ.unsuccessfulbuild".
+         Touching "Debug\CPTN278_FJ.lastbuildstate".
+     1>Done Building Project "E:\Data Structures\Final Project\CPTN278_FJ\CPTN278_FJ\CPTN278_FJ.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:36.19
